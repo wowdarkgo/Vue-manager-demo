@@ -1,8 +1,6 @@
 <template>
 <div>
-  <h3>{{sum}}</h3>
-  <h3>{{this.$store.state.sum}}</h3>
-  <h5>测试哈</h5>
+商城页面
 </div>
 </template>
 

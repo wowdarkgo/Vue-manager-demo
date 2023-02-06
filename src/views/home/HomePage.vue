@@ -82,7 +82,7 @@ export default {
     return {
       userImg: require("../../assets/head.jpg"),
       timePlace: undefined,
-      dynamicTags: ["op", "米黑", "乐子人"],
+      dynamicTags: ["tag1", "tag2", "tag3"],
       inputVisible: false,
       inputValue: "",
       tableData: [],

@@ -24,9 +24,7 @@ export default {
     },
   },
   methods: {
-    // isHome() {
-    //   // return (route.name = "");
-    // },
+  
     getBreadcrumb() {
       let matched = this.$route.matched;
       //如果不是首页
