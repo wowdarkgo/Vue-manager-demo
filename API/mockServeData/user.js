@@ -34,8 +34,6 @@ for (let i = 0; i < count; i++) {
 
 export default {
     /**
-     * 获取列表
-     * 要带参数 name, page, limt; name可以不填, page,limit有默认值。
      * @param name, page, limit
      * @return {{code: number, count: number, data: *[]}}
      */
